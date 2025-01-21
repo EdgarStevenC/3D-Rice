@@ -28,3 +28,6 @@ The final step is to create the **.OBJ file**, which models the 3D object. This 
 <p align="center">
 <img src="./media/Rice_P.gif" alt="drawing" width="1000"/>  
 </p>
+
+
+This is the result of the Computational Geometry course, Pontificia Universidad Javeriana 2022-II.
